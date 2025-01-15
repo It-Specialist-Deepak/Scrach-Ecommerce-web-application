@@ -1,6 +1,6 @@
 # Scrach Books
 
-Welcome to **Scratch Books**, an e-commerce web application for buying and selling books. This project is built with modern web technologies to ensure a seamless user experience.
+Welcome to **Scrach Books**, an e-commerce web application for buying and selling books. This project is built with modern web technologies to ensure a seamless user experience.
 
 ## Hosted URL
 Visit the live application: [Scrach Books](https://scrach-books.onrender.com/)
