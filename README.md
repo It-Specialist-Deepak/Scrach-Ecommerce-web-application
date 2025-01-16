@@ -3,7 +3,7 @@
 Welcome to **Scrach Books**, an e-commerce web application for buying and selling books. This project is built with modern web technologies to ensure a seamless user experience.
 
 ## Hosted URL
-Visit the live application: [Scrach Books](https://scrach-books.onrender.com/)
+Visit the live application: [https://scrach-books.onrender.com](https://scrach-books.onrender.com/)
 
 ## Tech Stack
 - **Frontend**: React.js
